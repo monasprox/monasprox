@@ -60,11 +60,8 @@ currently: Building with OpenClaw — systems that think, remember, and act
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monasprox&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monasprox&theme=tokyonight" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monasprox&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monasprox&theme=tokyonight" width="49%" />
 
 </div>
 
