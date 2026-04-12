@@ -1,72 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Monas+%F0%9F%91%8B;AI+Agent+Systems+Builder;Memory+Architect" alt="Typing SVG" />
+```
+ ███╗   ███╗ ██████╗ ███╗   ██╗ █████╗ ███████╗
+ ████╗ ████║██╔═══██╗████╗  ██║██╔══██╗██╔════╝
+ ██╔████╔██║██║   ██║██╔██╗ ██║███████║███████╗
+ ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══██║╚════██║
+ ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██║███████║
+ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+```
 
-<br/>
+**Systems Engineer · Researcher · Builder**
 
-[![Website](https://img.shields.io/badge/🌐_monas.us-000?style=flat-square)](https://monas.us)
-[![GitHub](https://img.shields.io/badge/GitHub-monasprox-181717?style=flat-square&logo=github)](https://github.com/monasprox)
-[![Views](https://komarev.com/ghpvc/?username=monasprox&color=58A6FF&style=flat-square&label=Views)](https://github.com/monasprox)
+[![Views](https://komarev.com/ghpvc/?username=monasprox&color=58A6FF&style=flat-square&label=Visitors)](https://github.com/monasprox)&nbsp;
+[![Web](https://img.shields.io/badge/monas.us-171515?style=flat-square&logo=safari&logoColor=white)](https://monas.us)
 
 </div>
 
+<br/>
+
+> *Tôi thích xây hệ thống, tìm hiểu cách mọi thứ vận hành, rồi phá nó ra để hiểu sâu hơn.*
+
+<br/>
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=monasprox&theme=tokyonight&hide_border=true&border_radius=4&card_width=320" width="38%" />
+
+#### `$ whoami`
+
+- 🇻🇳 Based in Vietnam
+- 🔧 Systems engineer — infrastructure, automation, tooling
+- 🔍 Researcher at heart — security, protocols, internals
+- 🤖 Currently exploring AI agent orchestration & memory systems
+- 🧪 Love to break things to understand how they work
+- 💼 Self-employed · remote
+
+<br clear="right"/>
+
 ---
 
-```yaml
-name: Monas
-location: Vietnam 🇻🇳
-role: AI Agent Systems • Memory Architect
-company: Self-employed
-focus:
-  - Multi-layer memory architectures for AI agents
-  - Autonomous agent orchestration & tool systems
-  - Open-source agent ecosystems
-currently: Building with OpenClaw — systems that think, remember, and act
+#### `$ ls ~/skills/`
+
+<p>
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat&logo=typescript" />
+<img src="https://img.shields.io/badge/-Bash-0d1117?style=flat&logo=gnubash" />
+<img src="https://img.shields.io/badge/-Docker-0d1117?style=flat&logo=docker" />
+<img src="https://img.shields.io/badge/-Linux-0d1117?style=flat&logo=linux" />
+<img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/-Nginx-0d1117?style=flat&logo=nginx" />
+<img src="https://img.shields.io/badge/-SQLite-0d1117?style=flat&logo=sqlite" />
+<img src="https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git" />
+<img src="https://img.shields.io/badge/-Wireshark-0d1117?style=flat&logo=wireshark" />
+</p>
+
+#### `$ ls ~/interests/`
+
+`systems-design` · `reverse-engineering` · `network-protocols` · `security-research` · `automation` · `ai-agents` · `memory-architectures` · `self-hosting`
+
+---
+
+#### `$ ls ~/projects/`
+
+```
+drwxr-xr-x  openclaw-memory/    # Five-Layer Memory Protection for AI Agents
+drwxr-xr-x  zalo-personal/      # OpenClaw ⟷ Zalo integration via zca-js
+drwxr-xr-x  trafexia/           # Mobile Traffic Interceptor
 ```
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 📌 Projects
-
-**[openclaw-memory](https://github.com/monasprox/openclaw-memory)** — Five-Layer Memory Protection for OpenClaw AI Agents `Shell`
-
-**[zalo-personal](https://github.com/monasprox/zalo-personal)** — OpenClaw extension for Zalo via zca-js `TypeScript`
-
-**[trafexia](https://github.com/monasprox/trafexia)** — Mobile Traffic Interceptor `TypeScript`
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monasprox&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monasprox&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monasprox&theme=tokyonight" width="70%" />
 
-</div>
+<br/>
 
----
+<sub>*"Understand the system. Then rebuild it better."*</sub>
 
-<div align="center">
-<sub><i>"Build systems that remember, so humans don't have to."</i></sub>
 </div>
