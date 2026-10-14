@@ -1,79 +1,61 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/monas-system-static.svg" />
+    <img src="./assets/monas-system-loop.svg" alt="MONAS. Understand the system. Then build it better. A subtle animated diagram connects observation, design, verification and iteration." width="100%" />
+  </picture>
 
-```
- ███╗   ███╗ ██████╗ ███╗   ██╗ █████╗ ███████╗
- ████╗ ████║██╔═══██╗████╗  ██║██╔══██╗██╔════╝
- ██╔████╔██║██║   ██║██╔██╗ ██║███████║███████╗
- ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══██║╚════██║
- ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██║███████║
- ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-```
-
-**Systems Engineer · Researcher · Builder**
-
-[![Views](https://komarev.com/ghpvc/?username=monasprox&color=58A6FF&style=flat-square&label=Visitors)](https://github.com/monasprox)&nbsp;
-[![Web](https://img.shields.io/badge/monas.us-171515?style=flat-square&logo=safari&logoColor=white)](https://monas.us)
-
+  <p><strong>Systems engineer &nbsp;·&nbsp; Applied AI &nbsp;·&nbsp; Security research</strong></p>
+  <p>
+    <a href="https://monas.us">Website</a> &nbsp;·&nbsp;
+    <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+    <a href="#what-im-exploring">Current focus</a>
+  </p>
 </div>
 
-<br/>
+## Hey, I'm Monas.
 
-> *Tôi thích xây hệ thống, tìm hiểu cách mọi thứ vận hành, rồi phá nó ra để hiểu sâu hơn.*
+I build software where **systems engineering, AI agents, and security** meet. I'm interested in the parts that are harder to see: execution boundaries, protocols, state, failure recovery, and how a system knows what actually happened.
 
-<br/>
+My approach is simple: **understand the behavior, find the first divergence, and build from evidence.**
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=monasprox&theme=tokyonight&hide_border=true&border_radius=4&card_width=320" width="38%" />
+<sub>Based in Vietnam · Independent engineering & research</sub>
 
-#### `$ whoami`
+## What I'm exploring
 
-- 🇻🇳 Based in Vietnam
-- 🔧 Systems engineer — infrastructure, automation, tooling
-- 🔍 Researcher at heart — security, protocols, internals
-- 🤖 Currently exploring AI agent orchestration & memory systems
-- 🧪 Love to break things to understand how they work
-- 💼 Self-employed · remote
+**EpisClaw** <sub>· Private R&D</sub>
 
-<br clear="right"/>
+An ongoing AI-agent runtime project focused on multi-channel interaction, scoped tools, long-running work, and durable execution. I'm exploring how to make agent systems more useful without losing track of permissions, state, or real-world outcomes.
 
----
+Beyond agents, I spend time on protocol research, automation, local-first tooling, and security testing that measures **false positives as carefully as true positives**.
 
-#### `$ ls ~/skills/`
+## Selected work
 
-<p>
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python" />
-<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat&logo=typescript" />
-<img src="https://img.shields.io/badge/-Bash-0d1117?style=flat&logo=gnubash" />
-<img src="https://img.shields.io/badge/-Docker-0d1117?style=flat&logo=docker" />
-<img src="https://img.shields.io/badge/-Linux-0d1117?style=flat&logo=linux" />
-<img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/-Nginx-0d1117?style=flat&logo=nginx" />
-<img src="https://img.shields.io/badge/-SQLite-0d1117?style=flat&logo=sqlite" />
-<img src="https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git" />
-<img src="https://img.shields.io/badge/-Wireshark-0d1117?style=flat&logo=wireshark" />
-</p>
+| Project | Focus |
+| :--- | :--- |
+| **[OpenClaw Memory](https://github.com/monasprox/openclaw-memory)** | A five-layer memory protection toolkit for OpenClaw agents, spanning observation, reflection, compaction and recovery. |
+| **[Agent Security Intent Eval](https://github.com/monasprox/agent-security-intent-eval)** | A provider-agnostic evaluation harness for agent threat detection, including benign false-positive measurement. |
+| **[Humanizer](https://github.com/monasprox/humanizer)** | A context-aware skill for more natural writing and Vietnamese conversation, grounded in role, intent and continuity. |
 
-#### `$ ls ~/interests/`
+<details>
+<summary><strong>Other explorations and upstream forks</strong></summary>
 
-`systems-design` · `reverse-engineering` · `network-protocols` · `security-research` · `automation` · `ai-agents` · `memory-architectures` · `self-hosting`
+<br />
 
----
+- [Zalo Personal](https://github.com/monasprox/zalo-personal): an upstream fork of the OpenClaw Zalo Personal integration.
+- [Trafexia](https://github.com/monasprox/trafexia): an upstream fork of a mobile HTTP/HTTPS traffic inspection tool.
+- [VoiceStudio](https://github.com/monasprox/VoiceStudio): an upstream fork of a local voice-production platform.
 
-#### `$ ls ~/projects/`
+</details>
 
-```
-drwxr-xr-x  openclaw-memory/    # Five-Layer Memory Protection for AI Agents
-drwxr-xr-x  zalo-personal/      # OpenClaw ⟷ Zalo integration via zca-js
-drwxr-xr-x  trafexia/           # Mobile Traffic Interceptor
-```
+## Working stack
+
+`Go` &nbsp; `Python` &nbsp; `TypeScript` &nbsp; `Bash` &nbsp; `Linux` &nbsp; `Docker` &nbsp; `PostgreSQL` &nbsp; `Redis`
+
+<sub>These are tools I use or work with, not a scoreboard. The right choice depends on the system.</sub>
 
 ---
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monasprox&theme=tokyonight" width="70%" />
-
-<br/>
-
-<sub>*"Understand the system. Then rebuild it better."*</sub>
-
+  <p><em>Build for clarity. Verify the outcome.</em></p>
+  <sub><a href="https://monas.us">monas.us</a> &nbsp;·&nbsp; <a href="https://github.com/monasprox?tab=repositories">More repositories</a></sub>
 </div>

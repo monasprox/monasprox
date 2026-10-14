@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
+<title id="title">MONAS. Understand the system. Then build it better.</title>
+<desc id="desc">Editorial engineering identity with observe, design, verify, and iterate connected to a central build node.</desc>
+<defs>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#213447"/></pattern>
+  <clipPath id="stage-clip"><rect x="735" y="22" width="443" height="320" rx="17"/></clipPath>
+  <radialGradient id="halo"><stop stop-color="#6fe3ca" stop-opacity=".24"/><stop offset="1" stop-color="#6fe3ca" stop-opacity="0"/></radialGradient>
+  <filter id="soft-glow" x="-110%" y="-110%" width="320%" height="320%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1200" height="366" fill="#0b111b"/>
+<rect x="1.5" y="1.5" width="1197" height="363" rx="21" fill="#0c131e" stroke="#2a3c52" stroke-width="2"/>
+<rect x="2.5" y="2.5" width="5" height="361" rx="2.5" fill="#5dd1c4"/>
+<circle cx="76" cy="51" r="7" fill="#6fe5ca"/>
+<text x="96" y="56" fill="#93b2c4" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing=".5">MONAS  /  ENGINEERING NOTES</text>
+<path d="M69 85 H168" stroke="#76dec9" stroke-width="2"/>
+<text x="63" y="194" fill="#edf6fb" font-family="Inter,Arial,sans-serif" font-size="105" font-weight="800" letter-spacing="-5">MONAS.</text>
+<text x="71" y="242" fill="#bfd0dc" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="500">Understand the system.</text>
+<text x="71" y="276" fill="#72e2cc" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="500">Then build it better.</text>
+<path d="M71 311 H681" stroke="#263a4d"/>
+<text x="71" y="337" fill="#7c9aaf" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing=".6">SYSTEMS  /  APPLIED AI  /  SECURITY RESEARCH</text>
+<rect x="734" y="21" width="446" height="322" rx="18" fill="#0f1a2a" stroke="#324459"/>
+<g clip-path="url(#stage-clip)"><rect x="747" y="40" width="430" height="290" fill="url(#grid)"/></g>
+
+<path d="M 799 113 C 849 133 872 163 942 181" fill="none" stroke="#38516a" stroke-width="2" stroke-linecap="round"/>
+<path d="M 1089 112 C 1047 130 1040 166 972 181" fill="none" stroke="#38516a" stroke-width="2" stroke-linecap="round"/>
+<path d="M 1090 279 C 1037 261 1040 218 971 201" fill="none" stroke="#38516a" stroke-width="2" stroke-linecap="round"/>
+<path d="M 797 282 C 855 258 855 229 939 207" fill="none" stroke="#38516a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="954" cy="192" r="72" fill="none" stroke="#31465d"/>
+<circle cx="954" cy="192" r="58" fill="none" stroke="#3a5968"/>
+<circle cx="954" cy="192" r="49" fill="#142331" stroke="#66afa9" stroke-width="2"/>
+<text x="954" y="196" text-anchor="middle" fill="#dcf0f5" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700">BUILD</text>
+
+<path d="M954 120 A72 72 0 0 1 1026 192" stroke="#66e3d0" fill="none" stroke-width="2" stroke-linecap="round"/>
+<rect x="748" y="89" width="107" height="36" rx="9" fill="#172433" stroke="#3a5165"/>
+<rect x="748" y="89" width="107" height="36" rx="9" fill="#183f44" stroke="#70e1cb"/>
+<text x="802" y="112" text-anchor="middle" fill="#c0fff0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600">OBSERVE</text>
+<rect x="1057" y="88" width="107" height="36" rx="9" fill="#172433" stroke="#3a5165"/>
+<text x="1111" y="111" text-anchor="middle" fill="#98b2c6" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600">DESIGN</text>
+<rect x="1060" y="268" width="107" height="36" rx="9" fill="#172433" stroke="#3a5165"/>
+<text x="1114" y="291" text-anchor="middle" fill="#98b2c6" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600">VERIFY</text>
+<rect x="744" y="270" width="107" height="36" rx="9" fill="#172433" stroke="#3a5165"/>
+<text x="798" y="293" text-anchor="middle" fill="#98b2c6" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600">ITERATE</text>
+<circle cx="801" cy="111" r="14" fill="#5dd1c4" opacity=".14"/><circle cx="801" cy="111" r="4" fill="#5dd1c4"/>
+<circle cx="1063" cy="128" r="14" fill="#7193ef" opacity=".14"/><circle cx="1063" cy="128" r="4" fill="#7193ef"/>
+<circle cx="1038" cy="240" r="14" fill="#b197f0" opacity=".14"/><circle cx="1038" cy="240" r="4" fill="#b197f0"/>
+<circle cx="891" cy="224" r="14" fill="#76d3b1" opacity=".14"/><circle cx="891" cy="224" r="4" fill="#76d3b1"/>
+<circle cx="768" cy="331" r="5" fill="#68ddbd"/>
+<text x="782" y="336" fill="#7f9caf" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing=".35">RESEARCH  →  VERIFY  →  BUILD</text>
+<rect x="734" y="21" width="446" height="322" rx="18" fill="none" stroke="#324459"/>
+</svg>
